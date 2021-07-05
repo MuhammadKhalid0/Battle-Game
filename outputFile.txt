@@ -1,0 +1,10 @@
+Game is LOSS
+KTS  ID   FD   KD   LT
+13   2    0    12   12   
+17   6    0    15   15   
+28   4    0    27   27   
+100.056
+Killed Enemies = 3
+Alive Enemies = 22
+Average First-Shot Delay for killed = 0
+Average Kill Delay for killed = 18
